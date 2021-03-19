@@ -9,6 +9,7 @@
   "author": "Mickey Holmes",
   "license": "ISC",
   "dependencies": {
-    "mongodb": "^3.6.4"
+    "mongodb": "^3.6.4",
+    "mongoose": "^5.12.1"
   }
 }
